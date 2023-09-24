@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**S4j33l/S4j33l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About:
 
-Here are some ideas to get you started:
+- Hi, I'm currently studying Software Engineering at MCS, NUST.  
+- I'm currently working with Flutter.
+- I'm currently learning Node, MongoDB, Mojo, Python and Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack: 
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,java,python,linux,mongodb,nodejs)](https://skillicons.dev)
+
+# Github Statistics: 
+
+[![Sajeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4j33l&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Sajeel's GitHub streak](https://streak-stats.demolab.com/?user=S4j33l&theme=dark)](https://git.io/streak-stats)
+<br>
+[![Sajeel's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S4j33l&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=S4j33l&label=Profile%20views&color=0e75b6&style=flat" alt="spectrewolf8" /> </p>
