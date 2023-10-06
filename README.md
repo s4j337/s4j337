@@ -1,8 +1,8 @@
-### Hello!
+### Hello! Welcome to my GitHub profile.
 
 # About:
 
-- Hi, I'm currently studying Software Engineering at MCS, NUST.  
+- I'm currently studying Software Engineering at MCS, NUST.  
 - I'm currently working with Flutter.
 - I'm currently learning Node, MongoDB, Mojo, Python and Linux.
   
