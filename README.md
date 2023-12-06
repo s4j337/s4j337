@@ -3,9 +3,7 @@
 # About:
 
 - I'm currently studying Software Engineering at MCS, NUST.  
-- I'm currently working with Flutter.
-- I'm currently learning Node, MongoDB, Mojo, Python and Linux.
-  
+- I'm currently working with Flutter and React.
 # Github Statistics: 
 
 [![Sajeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4j33l&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
