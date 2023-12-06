@@ -14,6 +14,6 @@
 
 # Tech Stack: 
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,java,python,linux,mongodb,nodejs,sql,bun,node,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,java,python,linux,mongodb,nodejs,mysql,react)](https://skillicons.dev)
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=S4j33l&label=Profile%20views&color=0e75b6&style=flat" alt="spectrewolf8" /> </p>
